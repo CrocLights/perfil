@@ -15,7 +15,7 @@ Idade: 16 anos.</p>
 <h3 id="cursos-feitos">Cursos feitos:</h3>
 <p>Curso de Python na Cisco.<br>
 Curso de LGPD do Senai.<br>
-Curso de Natação.</p>
+</p>
 <h3 id="oque-estou-aprendendo">Oque estou aprendendo:</h3>
 <p>Inglês.<br>
 TI.</p>
